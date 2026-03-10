@@ -1,0 +1,54 @@
+{
+    "name": "Orphea — Music Intelligence",
+    "short_name": "Orphea",
+    "description": "AI-powered music analysis, DNA profiling, and discovery across Spotify, SoundCloud, Deezer & TIDAL",
+    "start_url": "/dashboard",
+    "display": "standalone",
+    "orientation": "portrait",
+    "background_color": "#09090b",
+    "theme_color": "#F43F5E",
+    "categories": ["music", "entertainment"],
+    "icons": [
+        {
+            "src": "/logo.webp",
+            "sizes": "512x512",
+            "type": "image/webp",
+            "purpose": "any"
+        },
+        {
+            "src": "/logo.webp",
+            "sizes": "512x512",
+            "type": "image/webp",
+            "purpose": "maskable"
+        }
+    ],
+    "screenshots": [
+        {
+            "src": "/opengraph-image.png",
+            "sizes": "1200x630",
+            "type": "image/png",
+            "form_factor": "wide",
+            "label": "Orphea Dashboard — AI Music Analysis"
+        }
+    ],
+    "shortcuts": [
+        {
+            "name": "Search Music",
+            "short_name": "Search",
+            "url": "/search",
+            "icons": [{ "src": "/logo.webp", "sizes": "96x96" }]
+        },
+        {
+            "name": "Flow Deck",
+            "short_name": "Flow",
+            "url": "/flow",
+            "icons": [{ "src": "/logo.webp", "sizes": "96x96" }]
+        },
+        {
+            "name": "My Library",
+            "short_name": "Library",
+            "url": "/library",
+            "icons": [{ "src": "/logo.webp", "sizes": "96x96" }]
+        }
+    ]
+}
