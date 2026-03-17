@@ -10,15 +10,21 @@
     "categories": ["music", "entertainment"],
     "icons": [
         {
-            "src": "/logo.webp",
-            "sizes": "512x512",
-            "type": "image/webp",
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "/logo.webp",
+            "src": "/icons/icon-512x512.png",
             "sizes": "512x512",
-            "type": "image/webp",
+            "type": "image/png",
+            "purpose": "any"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
             "purpose": "maskable"
         }
     ],
@@ -29,6 +35,13 @@
             "type": "image/png",
             "form_factor": "wide",
             "label": "Orphea Dashboard — AI Music Analysis"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "form_factor": "narrow",
+            "label": "Orphea — Music Intelligence"
         }
     ],
     "shortcuts": [
@@ -36,19 +49,19 @@
             "name": "Search Music",
             "short_name": "Search",
             "url": "/search",
-            "icons": [{ "src": "/logo.webp", "sizes": "96x96" }]
+            "icons": [{ "src": "/icons/icon-192x192.png", "sizes": "192x192" }]
         },
         {
             "name": "Flow Deck",
             "short_name": "Flow",
             "url": "/flow",
-            "icons": [{ "src": "/logo.webp", "sizes": "96x96" }]
+            "icons": [{ "src": "/icons/icon-192x192.png", "sizes": "192x192" }]
         },
         {
             "name": "My Library",
             "short_name": "Library",
             "url": "/library",
-            "icons": [{ "src": "/logo.webp", "sizes": "96x96" }]
+            "icons": [{ "src": "/icons/icon-192x192.png", "sizes": "192x192" }]
         }
     ]
 }
