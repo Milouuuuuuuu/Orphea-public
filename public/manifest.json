@@ -1,5 +1,5 @@
 {
-    "name": "Orphea — Music Intelligence",
+    "name": "Orphea - Music Intelligence",
     "short_name": "Orphea",
     "description": "AI-powered music analysis, DNA profiling, and discovery across Spotify, SoundCloud, Deezer & TIDAL",
     "start_url": "/dashboard",
@@ -34,14 +34,14 @@
             "sizes": "1200x630",
             "type": "image/png",
             "form_factor": "wide",
-            "label": "Orphea Dashboard — AI Music Analysis"
+            "label": "Orphea Dashboard - AI Music Analysis"
         },
         {
             "src": "/icons/icon-512x512.png",
             "sizes": "512x512",
             "type": "image/png",
             "form_factor": "narrow",
-            "label": "Orphea — Music Intelligence"
+            "label": "Orphea - Music Intelligence"
         }
     ],
     "shortcuts": [
