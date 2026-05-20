@@ -61,9 +61,10 @@ Search across all connected providers simultaneously. Includes mood-based search
 
 | Plan | Price | Credits/month |
 |------|-------|--------------|
-| **Free** | €0 | 10 AI analyses |
-| **Pro** | €9.99/mo | 100 AI analyses |
-| **Artist** | €19.99/mo | 500 AI analyses + Artist dashboard |
+| **Free** | €0 | 3 AI analyses |
+| **Starter** | €2.99/mo | 10 AI analyses |
+| **Orphea+** | €5.99/mo | 30 AI analyses |
+| **Studio** | €12.99/mo | 100 AI analyses + Artist dashboard |
 
 [→ See full pricing at orphea.app/pricing](https://orphea.app/pricing)
 
