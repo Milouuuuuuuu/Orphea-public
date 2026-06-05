@@ -52,8 +52,8 @@
             "icons": [{ "src": "/icons/icon-192x192.png", "sizes": "192x192" }]
         },
         {
-            "name": "Flow Deck",
-            "short_name": "Flow",
+            "name": "The Cut",
+            "short_name": "The Cut",
             "url": "/flow",
             "icons": [{ "src": "/icons/icon-192x192.png", "sizes": "192x192" }]
         },
