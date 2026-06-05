@@ -1,4 +1,4 @@
-# Orphea — AI Music Intelligence Platform
+# Orphea - AI Music Intelligence Platform
 
 > Reveal your music DNA. Challenge your friends. Discover your sound.
 
@@ -10,7 +10,7 @@
 
 Orphea is an AI-powered music intelligence platform that goes beyond basic listening stats.
 
-Connect your **Spotify, SoundCloud, TIDAL, or Apple Music** account and Orphea analyzes your entire music library to build your unique **Musical DNA** — a living fingerprint of your sonic identity, updated continuously (not just once a year).
+Connect your **Spotify, SoundCloud, TIDAL, or Apple Music** account and Orphea analyzes your entire music library to build your unique **Musical DNA** - a living fingerprint of your sonic identity, updated continuously (not just once a year).
 
 ---
 
@@ -28,10 +28,10 @@ Your listening history, decoded across 4 axes:
 
 The result: a visual DNA Profile you can share as a story or compare with friends.
 
-### ⚔️ Arena — Music Taste Battles
-- **Taste Clash** — your DNA profile vs another user's
-- **Colosseum** — bracket-style community tournaments
-- **Weekly Matchups** — themed music battles, community voted
+### ⚔️ Arena - Music Taste Battles
+- **Taste Clash** - your DNA profile vs another user's
+- **Colosseum** - bracket-style community tournaments
+- **Weekly Matchups** - themed music battles, community voted
 
 ### 🎵 Multi-Provider Support
 Connect your favorite music platform:
@@ -47,7 +47,7 @@ Search across all connected providers simultaneously. Includes mood-based search
 ### 📚 Smart Library
 - Cross-platform listening history
 - Folder & playlist organization (drag & drop)
-- DNA recap cards — shareable visual summaries
+- DNA recap cards - shareable visual summaries
 
 ### 🌐 Community
 - Social profiles with Music DNA cards
@@ -90,4 +90,4 @@ Search across all connected providers simultaneously. Includes mood-based search
 
 ## License
 
-© 2026 Orphea. All rights reserved. — Private source, public product.
+© 2026 Orphea. All rights reserved. - Private source, public product.
