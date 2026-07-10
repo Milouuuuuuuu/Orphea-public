@@ -5,7 +5,7 @@
     "start_url": "/dashboard",
     "display": "standalone",
     "orientation": "portrait",
-    "background_color": "#09090b",
+    "background_color": "#0a0a0f",
     "theme_color": "#F43F5E",
     "categories": ["music", "entertainment"],
     "icons": [
@@ -22,7 +22,7 @@
             "purpose": "any"
         },
         {
-            "src": "/icons/icon-512x512.png",
+            "src": "/icons/icon-512-maskable.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "maskable"
