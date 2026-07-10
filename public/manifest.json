@@ -6,7 +6,7 @@
     "display": "standalone",
     "orientation": "portrait",
     "background_color": "#0a0a0f",
-    "theme_color": "#F43F5E",
+    "theme_color": "#0a0a0f",
     "categories": ["music", "entertainment"],
     "icons": [
         {
