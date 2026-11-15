@@ -1,7 +1,9 @@
 {
-    "name": "Orphea - Music Intelligence",
+    "name": "Orphea",
     "short_name": "Orphea",
-    "description": "AI-powered music analysis, DNA profiling, and discovery across Spotify, SoundCloud, Deezer & TIDAL",
+    "description": "Analyze any track, discover your music DNA and find new music with The Cut.",
+    "lang": "en",
+    "dir": "ltr",
     "id": "/dashboard",
     "start_url": "/dashboard",
     "scope": "/",
@@ -30,39 +32,23 @@
             "purpose": "maskable"
         }
     ],
-    "screenshots": [
-        {
-            "src": "/opengraph-image",
-            "sizes": "1200x630",
-            "type": "image/png",
-            "form_factor": "wide",
-            "label": "Orphea Dashboard - AI Music Analysis"
-        },
-        {
-            "src": "/icons/icon-512x512.png",
-            "sizes": "512x512",
-            "type": "image/png",
-            "form_factor": "narrow",
-            "label": "Orphea - Music Intelligence"
-        }
-    ],
     "shortcuts": [
         {
-            "name": "Search Music",
-            "short_name": "Search",
-            "url": "/search",
+            "name": "Analyze a track",
+            "short_name": "Analyze",
+            "url": "/search?intent=analyze&src=shortcut",
             "icons": [{ "src": "/icons/icon-192x192.png", "sizes": "192x192" }]
         },
         {
             "name": "The Cut",
             "short_name": "The Cut",
-            "url": "/flow",
+            "url": "/flow?src=shortcut",
             "icons": [{ "src": "/icons/icon-192x192.png", "sizes": "192x192" }]
         },
         {
-            "name": "My Library",
-            "short_name": "Library",
-            "url": "/library",
+            "name": "My Music",
+            "short_name": "My Music",
+            "url": "/library?tab=analyzed&src=shortcut",
             "icons": [{ "src": "/icons/icon-192x192.png", "sizes": "192x192" }]
         }
     ]
